@@ -11,3 +11,5 @@ This repo contains examples related to
 -   `type_erasure_example_in_py/`
     -   Explains how C removes the type annotation in Python and keeps the type
         annotation in C
+- `type_erasure_example_in_cpp/`
+    -   Explains how C maintains the reference count of Python object
